@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Herramientas mas usadas Vmware
 
-You can use the [editor on GitHub](https://github.com/LucyVegaMendez4/vmwareLolHerramientas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Material  para Educación 
+#### Vmware Partner Connect 
+[Enlace](https://vmstarcommunity.force.com/partnerconnect/s/) 
+Portal donde se encontrar información comercial, tecnica  y otros sobre todos los productos Vmware
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Vmware Partner University
+[Enlace](https://partneruniversity.vmware.com/oltpublish/site/cms.do?view=pu&ssosign=true) 
+Portal para tomar cursos en linea,y obtener las certificaciones VSP y VTSP.
 
-### Markdown
+#### Vmware Certifications
+[Enlace](https://mylearn.vmware.com/myGettingStarted.cfm?ui=www_cert) 
+Detalle de todas las certificaciones VSP, VTSP, VCP, etc y cursos tomados o por tomar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+###  Herramientas para Productos
+#### Vmware Compatibility Guide 
+[Enlace](https://www.vmware.com/resources/compatibility/search.php) 
+Herramienta para validar compatibilidad de Vendors(HW) y ediciones de productos Vmware
 
-# Header 1
-## Header 2
-### Header 3
+#### Vmware Product Lifecycle MAtrix
+[Enlace](https://lifecycle.vmware.com/#/) 
+Herramienta para validar la fecha de fin de soporte de un Producto Vmware
 
-- Bulleted
-- List
+#### Vmware Interoperatibilty Matrix
+[Enlace](https://interopmatrix.vmware.com/#/Interoperability) 
+Herramienta para validar compatibilidad entre productos Vmware, compatibilidad con Vendors(SW) y Path para upgrade de productos
 
-1. Numbered
-2. List
+#### Vmware Configuration Maximums
+[Enlace](https://configmax.vmware.com/guest?vmwareproduct=vSphere&release=vSphere%207.0&categories=1-0)
+Herramienta de valores máximos de configuración proporciona los límites de configuración recomendados para los productos VMware.
 
-**Bold** and _Italic_ and `Code` text
+#### Productos End of support
+[Enlace](https://www.vmware.com/support/products-reaching-endofsupport.html)
+ Pagina que muestra una lista de productos que alcanzaron la finalización del soporte general en 2018
+ 
+#### VMware Knowledge Base
+[Enlace] (https://https://kb.vmware.com/s/)
+La base de conocimientos de VMware proporciona soluciones de soporte, mensajes de error y guías de resolución de problemas.
 
-[Link](url) and ![Image](src)
-```
+#### Vmware Security Advisor
+[Enlace](https://www.vmware.com/security/advisories.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### KB Importantes:
+Hacer Downgrade y Upgrade de Licencias: [Enlace](https://kb.vmware.com/s/article/81665)
+Descargar llaves de activación: [Enlace](https://kb.vmware.com/s/article/2107518)
+Crear un ticket de soporte: [Enlace](https://kb.vmware.com/s/article/2006985)
 
-### Jekyll Themes
+### Para Clientes
+#### Vmware Customer Connect
+[Enlace] (https://customerconnect.vmware.com/)
+Portal del cliente para productos de VMware, incluida la base de conocimientos, documentos, comunidades, soporte y capacitación
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LucyVegaMendez4/vmwareLolHerramientas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Guia de Soporte
+[Enlace] (https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/tech-support-welcome-guide.pdf)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
