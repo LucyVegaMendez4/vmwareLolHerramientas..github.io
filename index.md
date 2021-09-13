@@ -36,7 +36,7 @@ Herramienta de valores máximos de configuración proporciona los límites de co
  Pagina que muestra una lista de productos que alcanzaron la finalización del soporte general en 2018
  
 #### VMware Knowledge Base
-[Enlace] (https://https://kb.vmware.com/s/)
+[Enlace](https://https://kb.vmware.com/s/)
 La base de conocimientos de VMware proporciona soluciones de soporte, mensajes de error y guías de resolución de problemas.
 
 #### Vmware Security Advisor
