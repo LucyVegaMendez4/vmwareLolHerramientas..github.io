@@ -49,10 +49,10 @@ Crear un ticket de soporte: [Enlace](https://kb.vmware.com/s/article/2006985)
 
 ### Para Clientes
 #### Vmware Customer Connect
-[Enlace] (https://customerconnect.vmware.com/)
+[Enlace](https://customerconnect.vmware.com/)
 Portal del cliente para productos de VMware, incluida la base de conocimientos, documentos, comunidades, soporte y capacitación
 
 #### Guia de Soporte
-[Enlace] (https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/tech-support-welcome-guide.pdf)
+[Enlace](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/tech-support-welcome-guide.pdf)
 
 
