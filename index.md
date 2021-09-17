@@ -36,6 +36,8 @@ Vmware TestDrive
 [Enlace](https://portal.vmtestdrive.com/) 
 
 
+
+
 ## Material  para Educación 
 #### Vmware Partner Connect 
 [Enlace](https://vmstarcommunity.force.com/partnerconnect/s/) 
@@ -48,6 +50,9 @@ Portal para tomar cursos en linea,y obtener las certificaciones VSP y VTSP.
 #### Vmware Certifications
 [Enlace](https://mylearn.vmware.com/myGettingStarted.cfm?ui=www_cert) 
 Detalle de todas las certificaciones VSP, VTSP, VCP, etc y cursos tomados o por tomar
+
+
+
 
 
 ## Para Clientes
