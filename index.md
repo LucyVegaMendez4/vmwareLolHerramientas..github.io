@@ -36,7 +36,7 @@ Vmware TestDrive
 [Enlace](https://portal.vmtestdrive.com/) 
 
 
-### Material  para Educación 
+## Material  para Educación 
 #### Vmware Partner Connect 
 [Enlace](https://vmstarcommunity.force.com/partnerconnect/s/) 
 Portal donde se encontrar información comercial, tecnica  y otros sobre todos los productos Vmware
@@ -50,7 +50,7 @@ Portal para tomar cursos en linea,y obtener las certificaciones VSP y VTSP.
 Detalle de todas las certificaciones VSP, VTSP, VCP, etc y cursos tomados o por tomar
 
 
-### Para Clientes
+## Para Clientes
 #### Vmware Customer Connect
 [Enlace](https://customerconnect.vmware.com/)
 Portal del cliente para productos de VMware, incluida la base de conocimientos, documentos, comunidades, soporte y capacitación
