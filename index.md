@@ -28,8 +28,8 @@ La base de conocimientos de VMware proporciona soluciones de soporte, mensajes d
 #### Vmware Security Advisor
 [Enlace](https://www.vmware.com/security/advisories.html)
 
-### Vmware Demos y POCs:
-[Enlace](https://labs.hol.vmware.com/HOL/catalogs/catalog/1936) Vmware Hands-on Labs
+#### Vmware Demos y POCs:
+[Enlace](https://labs.hol.vmware.com/HOL/catalogs/catalog/1936) Vmware Hands-on Labs.
 [Enlace](https://portal.vmtestdrive.com/) Vmware TestDrive.
 
 
