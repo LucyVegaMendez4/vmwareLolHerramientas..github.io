@@ -1,19 +1,5 @@
 ## Herramientas mas usadas Vmware
 
-### Material  para Educación 
-#### Vmware Partner Connect 
-[Enlace](https://vmstarcommunity.force.com/partnerconnect/s/) 
-Portal donde se encontrar información comercial, tecnica  y otros sobre todos los productos Vmware
-
-#### Vmware Partner University
-[Enlace](https://partneruniversity.vmware.com/oltpublish/site/cms.do?view=pu&ssosign=true) 
-Portal para tomar cursos en linea,y obtener las certificaciones VSP y VTSP.
-
-#### Vmware Certifications
-[Enlace](https://mylearn.vmware.com/myGettingStarted.cfm?ui=www_cert) 
-Detalle de todas las certificaciones VSP, VTSP, VCP, etc y cursos tomados o por tomar
-
-
 ###  Herramientas para Productos
 #### Vmware Compatibility Guide 
 [Enlace](https://www.vmware.com/resources/compatibility/search.php) 
@@ -42,10 +28,24 @@ La base de conocimientos de VMware proporciona soluciones de soporte, mensajes d
 #### Vmware Security Advisor
 [Enlace](https://www.vmware.com/security/advisories.html)
 
-#### KB Importantes:
-Hacer Downgrade y Upgrade de Licencias: [Enlace](https://kb.vmware.com/s/article/81665)
-Descargar llaves de activación: [Enlace](https://kb.vmware.com/s/article/2107518)
-Crear un ticket de soporte: [Enlace](https://kb.vmware.com/s/article/2006985)
+### Vmware Demos y POCs:
+[Enlace](https://labs.hol.vmware.com/HOL/catalogs/catalog/1936) Vmware Hands-on Labs
+[Enlace](https://portal.vmtestdrive.com/) Vmware TestDrive.
+
+
+### Material  para Educación 
+#### Vmware Partner Connect 
+[Enlace](https://vmstarcommunity.force.com/partnerconnect/s/) 
+Portal donde se encontrar información comercial, tecnica  y otros sobre todos los productos Vmware
+
+#### Vmware Partner University
+[Enlace](https://partneruniversity.vmware.com/oltpublish/site/cms.do?view=pu&ssosign=true) 
+Portal para tomar cursos en linea,y obtener las certificaciones VSP y VTSP.
+
+#### Vmware Certifications
+[Enlace](https://mylearn.vmware.com/myGettingStarted.cfm?ui=www_cert) 
+Detalle de todas las certificaciones VSP, VTSP, VCP, etc y cursos tomados o por tomar
+
 
 ### Para Clientes
 #### Vmware Customer Connect
@@ -55,4 +55,8 @@ Portal del cliente para productos de VMware, incluida la base de conocimientos, 
 #### Guia de Soporte
 [Enlace](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/tech-support-welcome-guide.pdf)
 
+#### KB Importantes:
+Hacer Downgrade y Upgrade de Licencias: [Enlace](https://kb.vmware.com/s/article/81665)
+Descargar llaves de activación: [Enlace](https://kb.vmware.com/s/article/2107518)
+Crear un ticket de soporte: [Enlace](https://kb.vmware.com/s/article/2006985)
  
